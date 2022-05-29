@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KaipoDEV
+- 👀 I’m interested in Fivem development
+- 🌱 I’m currently learning Lua
